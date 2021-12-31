@@ -31,7 +31,7 @@ Computer Science와 관련된 내용 뿐만이 아니라 개인적인 관심사�
 ## Framework
 
 <details>
-    <summary>목록보기</summary>
+    <summary>List</summary>
     
 * [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](http://www.yes24.com/Product/Goods/83849117) | Completed
 * [스프링5 프로그래밍 입문](http://www.yes24.com/Product/Goods/62268795) | Reading
@@ -41,18 +41,29 @@ Computer Science와 관련된 내용 뿐만이 아니라 개인적인 관심사�
 ## HTTP / Network
 
 <details>
-    <summary>목록보기</summary>
+    <summary>List</summary>
 
 * [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/Goods/15894097) | Reading
 * [그림으로 배우는 네트워크 원리](http://www.yes24.com/Product/Goods/88244509) | Reading
 
 </details>
 
-## 인문학
+## ETC
 
 <details>
-    <summary>목록보기</summary>
+    <summary>List</summary>
 
 * [노예의 길](http://www.yes24.com/Product/Goods/60545470) | Reading
 
+</details>
+
+## Things I want to(have to) read
+
+<details>
+    <summary>List</summary>
+
+* [리팩터링](http://www.yes24.com/Product/Goods/89649360)
+* [자바로 배우는 핵심 자료구조와 알고리즘](http://www.yes24.com/Product/Goods/61198657)
+* [Do it! 자료구조와 함께 배우는 알고리즘 입문](http://www.yes24.com/Product/Goods/60547893)
+* [Clean Code](http://www.yes24.com/Product/Goods/11681152)
 </details>
