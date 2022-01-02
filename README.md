@@ -43,8 +43,9 @@ Computer Science와 관련된 내용 뿐만이 아니라 개인적인 관심사�
 <details>
     <summary>List</summary>
 
-* [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/Goods/15894097) | Reading
+* [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/Goods/15894097) | Completed
 * [그림으로 배우는 네트워크 원리](http://www.yes24.com/Product/Goods/88244509) | Reading
+* [성공과 실패를 결정하는 1%의 네트워크 원리](http://www.yes24.com/Product/Goods/90640081) | Reading
 
 </details>
 
