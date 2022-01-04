@@ -22,9 +22,9 @@ Computer Science와 관련된 내용 뿐만이 아니라 개인적인 관심사�
 <details>
     <summary>목록보기</summary>
     
-* [이것이 자바다](http://www.yes24.com/Product/Goods/15651484) | Completed
-* [자바의 신](http://www.yes24.com/Product/Goods/42643850) | Reading
-* [모던 자바스크립트 Deep Dive](http://www.yes24.com/Product/Goods/92742567) | Reading
+* [이것이 자바다](https://github.com/chan-gon/TIR/blob/master/Programming%20Language/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%9E%90%EB%B0%94%EB%8B%A4.md) | Completed
+* 자바의 신 | Reading
+* 모던 자바스크립트 Deep Dive | Reading
 
 </details>
 
@@ -33,8 +33,8 @@ Computer Science와 관련된 내용 뿐만이 아니라 개인적인 관심사�
 <details>
     <summary>List</summary>
     
-* [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](http://www.yes24.com/Product/Goods/83849117) | Completed
-* [스프링5 프로그래밍 입문](http://www.yes24.com/Product/Goods/62268795) | Reading
+* [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/chan-gon/TIR/blob/master/Framework/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%EC%99%80%20AWS%EB%A1%9C%20%ED%98%BC%EC%9E%90%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4.md) | Completed
+* 스프링5 프로그래밍 입문 | Reading
 
 </details>
 
@@ -43,9 +43,9 @@ Computer Science와 관련된 내용 뿐만이 아니라 개인적인 관심사�
 <details>
     <summary>List</summary>
 
-* [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/Goods/15894097) | Completed
-* [그림으로 배우는 네트워크 원리](http://www.yes24.com/Product/Goods/88244509) | Completed
-* [성공과 실패를 결정하는 1%의 네트워크 원리](http://www.yes24.com/Product/Goods/90640081) | Completed
+* [그림으로 배우는 HTTP & Network](https://github.com/chan-gon/TIR/blob/master/HTTP%26Network/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20HTTP%20%26%20Network.md) | Completed
+* [그림으로 배우는 네트워크 원리](https://github.com/chan-gon/TIR/blob/master/HTTP%26Network/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9B%90%EB%A6%AC.md) | Completed
+* [성공과 실패를 결정하는 1%의 네트워크 원리](https://github.com/chan-gon/TIR/blob/master/HTTP%26Network/%EC%84%B1%EA%B3%B5%EA%B3%BC%20%EC%8B%A4%ED%8C%A8%EB%A5%BC%20%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94%201%25%EC%9D%98%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9B%90%EB%A6%AC.md) | Completed
 
 </details>
 
@@ -54,7 +54,7 @@ Computer Science와 관련된 내용 뿐만이 아니라 개인적인 관심사�
 <details>
     <summary>List</summary>
 
-* [노예의 길](http://www.yes24.com/Product/Goods/60545470) | Reading
+* 노예의 길 | Reading
 
 </details>
 
